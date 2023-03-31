@@ -6,5 +6,5 @@
 </p>	
 
 <p>
-    To accomplish this, the project likely involved creating a layout that was both aesthetically pleasing and functional, with a focus on readability, accessibility, and ease of use. This would have required careful consideration of color schemes, typography, and other design elements, as well as attention to detail in the code to ensure that the template was optimized for different devices and screen sizes.
+    To accomplish this, the project involved creating a layout that was both aesthetically pleasing and functional, with a focus on readability, accessibility, and ease of use. This would have required careful consideration of color schemes, typography, and other design elements, as well as attention to detail in the code to ensure that the template was optimized for different devices and screen sizes.
 </p>
